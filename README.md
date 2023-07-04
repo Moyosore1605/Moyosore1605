@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Engineer / Web Developer
 ---------------------------------
 
-I've been coding for more than 2 years now and I have gathered knowledge and skills required of my path( The Imperial Software Engineer dao 👀). My skills include: . Programming languages: Python, Javascript . 
-. Frontend Development: ReactJs, Bootstrap, Tailwind, VueJs . 
-. Web Development: HTML, CSS, ReactJs, NextJs, SASS . 
+I've been coding for more than 2 years now and I have gathered knowledge and skills required of my path( The Imperial Software Engineer dao 👀). My skills include:<br/> . Programming languages: Python, Javascript .<br/> 
+. Frontend Development: ReactJs, Bootstrap, Tailwind, VueJs .<br/> 
+. Web Development: HTML, CSS, ReactJs, NextJs, SASS .<br/>
 . Version Control: Git .
 
 * 🌍  I'm based in Lagos, Nigeria.
