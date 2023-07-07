@@ -7,7 +7,8 @@ Frontend Engineer / Web Developer
 I've been coding for more than 2 years now and I have gathered knowledge and skills required of my path( The Imperial Software Engineer dao 👀). My skills include:<br/> . Programming languages: Python, Javascript .<br/> 
 . Frontend Development: ReactJs, Bootstrap, Tailwind, VueJs .<br/> 
 . Web Development: HTML, CSS, ReactJs, NextJs, SASS .<br/>
-. Version Control: Git .
+. Version Control: Git . <br/>
+. const PRIMEDEVSKILL = Googling .
 
 * 🌍  I'm based in Lagos, Nigeria.
 * ✉️  You can contact me at [moyosorejesuemmanuel@gmail.com](mailto:moyosorejesuemmanuel@gmail.com)
